@@ -16,7 +16,7 @@ ASEM-51 V1.2                                         Copyright (c) 1996 by W.W. 
 
        MCS-51 Family Cross Assembler   A S E M - 5 1   V 1.2  
 ## Z80 CPU with 8kB ROM and 8kB RAM
-<img width="1252" height="308" alt="pins" src="https://github.com/user-attachments/assets/b4da442c-0538-4655-ae84-80f41e53c275" />
+<img width="755" height="308" alt="pins_crop" src="https://github.com/user-attachments/assets/703f47b3-1b6c-42a9-af5b-bac59e792885" />
 
 ## T80 CORE
 https://opencores.org/projects/t80
