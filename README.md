@@ -11,3 +11,20 @@ ASEM-51 V1.2                                         Copyright (c) 1996 by W.W. 
 
        MCS-51 Family Cross Assembler   A S E M - 5 1   V 1.2
        =====================================================
+## T80 CORE
+https://opencores.org/projects/t80
+
+https://github.com/freecores/t80
+
+Wallner, Daniel  
+MikeJ  
+
+
+## TV80 CORE
+https://github.com/hutch31/tv80/tree/master
+
+Hutchison, Guy  
+M. Harte, Howard  
+
+https://opencores.org/projects/tv80
+
