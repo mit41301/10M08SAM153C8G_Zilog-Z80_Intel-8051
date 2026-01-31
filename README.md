@@ -12,6 +12,8 @@ https://plit.de/asem-51/download.htm
 ASEM-51 V1.2                                         Copyright (c) 1996 by W.W. Heinz                                        
 
        MCS-51 Family Cross Assembler   A S E M - 5 1   V 1.2  
+## Z80 CPU with 8kB ROM and 8kB RAM
+<img width="1252" height="308" alt="pins" src="https://github.com/user-attachments/assets/b4da442c-0538-4655-ae84-80f41e53c275" />
 
 ## T80 CORE
 https://opencores.org/projects/t80
