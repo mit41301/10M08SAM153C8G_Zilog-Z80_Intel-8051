@@ -29,3 +29,22 @@ M. Harte, Howard
 https://github.com/hutch31/tv80/tree/master  
 https://github.com/freecores/tv80  
 
+## T51 mcu
+https://opencores.org/projects/t51/
+
+2001-2002 Daniel Wallner  
+2004-2005 Andreas Voggeneder  
+
+https://github.com/freecores/t51
+
+## Oregano Systems 8051 IP core
+
+https://www.oreganosystems.at/products/ip-cores/8051-ip-core  
+
+<img width="1170" height="995" alt="image" src="https://github.com/user-attachments/assets/b7ec9459-648d-405e-a3d9-5b78e54de882" />
+
+The 8051 IP Core had been developed in cooperation with the Vienna University of Technology. This IP core is binary compatible to the well known 8051 processor from Intel. The Oregano Systems 8051 IP core is available as a parameterizable, synthesizable circuit description (VHDL).
+
+ The Oregano Systems 8051 IP core offers faster program execution compared to the original 8051 devices due to an optimized processor’s architecture. Additionally, the Oregano Systems 8051 IP core can be  parametrized. The Oregano Systems 8051 IP Core is available free of charge even for industrial applications under the LGPL (Lesser General Public License).
+ 
+https://www.oreganosystems.at/application/files/9215/3313/6321/mc8051_design_v1.6.zip
