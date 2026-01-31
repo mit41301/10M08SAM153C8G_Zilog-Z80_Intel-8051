@@ -3,14 +3,16 @@
 ## Pin definition
 <img width="600" height="582" alt="image" src="https://github.com/user-attachments/assets/02009855-41d2-4ed1-81bf-5eba6e8e38e4" />
 
+## ASEM-51 V1.2
+
+https://plit.de/asem-51/
+
+https://plit.de/asem-51/download.htm
+
 ASEM-51 V1.2                                         Copyright (c) 1996 by W.W. Heinz                                        
 
+       MCS-51 Family Cross Assembler   A S E M - 5 1   V 1.2  
 
-
-
-
-       MCS-51 Family Cross Assembler   A S E M - 5 1   V 1.2
-       =====================================================
 ## T80 CORE
 https://opencores.org/projects/t80
 
