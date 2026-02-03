@@ -44,6 +44,9 @@ https://opencores.org/projects/t51/
 
 https://github.com/freecores/t51
 
+## C51ASM from ATMEL
+https://www.microchip.com/en-us/development-tool/C51ASM
+
 ## Oregano Systems 8051 IP core
 
 https://www.oreganosystems.at/products/ip-cores/8051-ip-core  
