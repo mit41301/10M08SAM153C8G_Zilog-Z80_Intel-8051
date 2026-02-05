@@ -1,6 +1,9 @@
-## ALTERA 10M08SAM153 CONNECTION  
+## ALTERA 10M08SAM153
+
+## VCC, GND, TXD and RXD
 <img width="982" height="654" alt="33_IMG_9399" src="https://github.com/user-attachments/assets/3064c585-4f5b-4781-851e-246741ed6c77" />
 
+## USB-TTL CP2102
 <img width="982" height="654" alt="33_IMG_9401" src="https://github.com/user-attachments/assets/a31db5cf-afa2-4521-a3b6-0cb570a4093d" />
 
 ## STEPFPGA MAX10
