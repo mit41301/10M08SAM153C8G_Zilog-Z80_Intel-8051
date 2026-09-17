@@ -28,7 +28,7 @@ M : Micro FineLine BGA (MBGA)
 C : Commercial (T = 0° C to 85° C)  
 8: FPGA Fabric Speed Grade  
 G : RoHS6  
-## ALTERA10MO2SCM153  
+## ALTERA10M02SCM153  
 Core device: ALTERA10MO2SCM153  
 153-pin BGA package, pin pitch 0.5MM, chip size 8MM*8MM  
 2000 LE resources, 12KB user flash memory, 108KBIT RAM  
